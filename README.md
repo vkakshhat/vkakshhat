@@ -3,6 +3,7 @@
 <h3 align="center">Final year student at VIT Bhopal</h3>
 <img align="right" alt="Coding" width="436" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 <br><br>
+
 - 🔭 I’m currently working on **Front-end Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm & MySql **
