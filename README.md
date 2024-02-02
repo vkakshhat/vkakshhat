@@ -10,5 +10,5 @@
 
 - 📫 How to reach me **akshatvk0088@gmail.com**
 
-- ⚡ Fun fact **As an CS engineer I like to solve problems in creative ways, and can adapt to any change and gain a broader perspective in any field.**
+- ⚡ **As an CS engineer I like to solve problems in creative ways, and can adapt to any change and gain a broader perspective in any field.**
 
