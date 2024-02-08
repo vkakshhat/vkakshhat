@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="436" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 <br><br>
 
-- 🔭 I’m currently working on **Front-end Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm & MySql **
 
